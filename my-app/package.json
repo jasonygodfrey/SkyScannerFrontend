@@ -6,8 +6,10 @@
     "@skyscanner/backpack-react-scripts": "11.2.2",
     "@skyscanner/backpack-web": "^37.2.0",
     "@skyscanner/cra-template-backpack": "0.0.9",
+    "bpk-component-calendar": "^13.1.2",
     "bpk-stylesheets": "^9.0.17",
     "react": "^19.1.0",
+    "react-calendar": "^5.1.0",
     "react-dom": "^19.1.0",
     "react-transition-group": "^4.4.5",
     "sass": "^1.87.0"
